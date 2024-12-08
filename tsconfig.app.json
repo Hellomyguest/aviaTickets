@@ -33,5 +33,5 @@
       "@entities/*": ["entities/*"]
     }
   },
-  "include": ["src", "main.tsx"]
+  "include": ["src", "src/main.tsx"]
 }
